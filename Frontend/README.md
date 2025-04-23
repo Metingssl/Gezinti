@@ -1,1 +1,3 @@
 # Gezinti Frontend
+
+<!-- AAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
